@@ -9,10 +9,10 @@ O servidor de aplicações responde a algumas questões comuns a todas as aplica
 # Recursos/Vantagens
 
 
-Garantia de disponibilidade
-Balanceamento de carga
-Tratamento de exceções
-Segurança
+* Garantia de disponibilidade
+* Balanceamento de carga
+* Tratamento de exceções
+* Segurança
 
 # Manual do usuário
 # Segurança
