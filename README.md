@@ -15,6 +15,8 @@ O servidor de aplicações responde a algumas questões comuns a todas as aplica
 * Segurança
 
 # Manual do usuário
+<br><br>
+https://github.com/telecomunicacoes/webapp/wiki/Documenta%C3%A7%C3%A3o
 # Segurança
 # FAQ
 
