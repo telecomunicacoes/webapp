@@ -8,7 +8,7 @@ O servidor de aplicações responde a algumas questões comuns a todas as aplica
 
 # Recursos/Vantagens
 
-
+* Gestão de conteúdo
 * Garantia de disponibilidade
 * Balanceamento de carga
 * Tratamento de exceções
